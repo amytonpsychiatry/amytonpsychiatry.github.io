@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+In living life, we might often find ourselves repeating the same patterns. These patterns can led us to suffer, be frustrated, or feel stuck. Our work together can involve understanding what these patterns are, and what parts of our life they might have been borne from. We’ll investigate how these ways of living work for us, and also how they might not. I believe that by understanding how and why we live the way we do, we can then start to develop the agency to decide if we want to continue to live that way with more ease and self-compassion, or to try something new. Medications can be helpful for this process.<br /> <br />
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I primarily work from psychodynamic perspective, integrating work from the relational approach, which is invites discussion of power structures inherent in a physician-patient relationship. I am a member of the The Asian American Center for Psychoanalysis, and have furthered my studies in psychoanalysis through the Steve Mitchell Relational Study Center and the Columbia University Center for Psychoanalysis. I integrate approaches from cognitive behavioral therapy, acceptance commitment therapy, and dialectical behavioral therapy. I focus on trauma, the Asian American experience, anxiety disorders and depressive disorders. I am also an inpatient psychiatrist at Bellevue Hospital, where I primarily treat individuals with psychosis and trauma from a diverse range of identities, socioeconomic status, and backgrounds.

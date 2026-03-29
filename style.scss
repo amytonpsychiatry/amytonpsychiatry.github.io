@@ -19,7 +19,9 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font-family: 'Kalnia';
+  font-weight: 300;
+  font-size: 18px/1.4;
   color: $darkGray;
 }
 
@@ -151,7 +153,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 15px;
 }
 
 .masthead {
@@ -215,8 +217,9 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  margin-top: 50px; // @TODO: Vertically middle align
+  font-family: 'Kalnia';
+  font-weight: 300;
   font-size: 18px;
 
   @include mobile {
